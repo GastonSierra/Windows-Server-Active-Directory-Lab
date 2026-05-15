@@ -13,3 +13,13 @@ Domain-joined Windows clients
 File sharing and permissions
 PowerShell administration
 Troubleshooting and system management
+
+Environment
+Component	Details
+Host Machine	Dell OptiPlex 5050 Mini
+Host OS	Windows 11 Pro
+Virtualization	VMware Workstation / VirtualBox
+Server OS	Windows Server 2022
+Client OS	Windows 11
+Domain Name	lab.local
+
