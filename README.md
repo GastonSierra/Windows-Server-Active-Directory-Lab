@@ -5,14 +5,14 @@ This project documents the creation and management of a Windows Active Directory
 
 The lab was built to gain hands-on experience with:
 
->Active Directory Domain Services (AD DS)
->DNS configuration
->Group Policy Objects (GPOs)
->User and group administration
->Domain-joined Windows clients
->File sharing and permissions
->PowerShell administration
->Troubleshooting and system management
+Active Directory Domain Services (AD DS)
+DNS configuration
+Group Policy Objects (GPOs)
+User and group administration
+Domain-joined Windows clients
+File sharing and permissions
+PowerShell administration
+Troubleshooting and system management
 
 Environment 
 
