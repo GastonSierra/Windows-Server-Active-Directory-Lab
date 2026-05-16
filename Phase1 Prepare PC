@@ -1,1 +1,7 @@
-
+## Enable Virtualization in Bios 
+1. Reboot PC 
+2. Tap F2 to enter BIOS
+3. Go to:
+  Virtualization Support
+  Enable: Intel Virtulization Technology (VT-x)
+4. Save & Exit
